@@ -83,7 +83,7 @@ using namespace std;
 //int Total_Student = Pass + Fail;
 //cout << "Общее количество студентов:" << Total_Student << "\n";
     
-//float Res = (Fail * 100) / Total_Student;
+//int Res = (Fail * 100) / Total_Student;
 //cout << "Должники составляют " << Res << "% от общего числа студентов.";
 //}
 
